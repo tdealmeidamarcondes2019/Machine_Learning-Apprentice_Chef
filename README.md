@@ -1,4 +1,4 @@
-# Machine-Learning---Apprentice-Chef
+## Machine-Learning | Apprentice-Chef
 
 The objective of this analysis was to build a regression based analysis and a classification-based predictive model using Apprentice Chef database. 
 
