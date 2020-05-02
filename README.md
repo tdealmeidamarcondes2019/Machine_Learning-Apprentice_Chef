@@ -9,6 +9,7 @@ A1_Model.py
 A1_Write_Up
 
 <strong> A2: Classification-based predictive model </strong>
+
 Files:
 A2_Analysis.ipynb 
 A2_Model.py
