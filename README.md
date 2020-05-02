@@ -1,5 +1,12 @@
 # Machine-Learning---Apprentice-Chef
-Building regression based analysis and classification-based predictive model.
+
+The objective of this analysis was to build a regression based analysis and a classification-based predictive model using Apprentice Chef database. 
+
+Apprentice Chef is an innovative company with a unique spin on cooking at home. Their targeted customer is the busy professional with little to no skills in the kitchen, but appreciate a good meal. 
+
+The first analysis (A1) is destined to better understand how much revenue to expect from each customer within their first year of orders.
+
+The second analysis (A2) explores which variables impact most for the success of their cross-sell, Halfway There, a promotion where subscribers receive a half bottle with the meal every Wednesday. The objective here is to understand which customer will be more succeptible to purchase this promotion.
 
 <strong> A1: Regression based analysis </strong>
 
